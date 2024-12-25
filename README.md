@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Waleed-Ahmad16  
+- 👀 I’m interested in mobile app development, web development, and learning cutting-edge technologies like AI and blockchain.  
+- 🌱 I’m currently learning Android development with Java and exploring backend development using Node.js.  
+- 💞️ I’m looking to collaborate on open-source projects related to app development or anything that helps people solve real-world problems.  
+- 📫 How to reach me: You can reach me via email at wa8110270@gmail.com . 
+- 😄 Pronouns: He/Him  
+- ⚡ Fun fact: I can spend hours debugging code but can’t find my headphones even if they’re right in front of me! 😄  
